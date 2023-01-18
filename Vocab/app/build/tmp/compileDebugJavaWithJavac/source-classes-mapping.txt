@@ -1,0 +1,27 @@
+com/javageeks/vocab/BuildConfig.java
+ com.javageeks.vocab.BuildConfig
+com/javageeks/vocab/Dictionary.java
+ com.javageeks.vocab.Dictionary
+com/javageeks/vocab/Autocorrect.java
+ com.javageeks.vocab.Autocorrect
+com/javageeks/vocab/WordOfTheDay.java
+ com.javageeks.vocab.WordOfTheDay
+com/javageeks/vocab/databinding/ActivitySearchBinding.java
+ com.javageeks.vocab.databinding.ActivitySearchBinding
+com/javageeks/vocab/databinding/ActivityMainBinding.java
+ com.javageeks.vocab.databinding.ActivityMainBinding
+com/javageeks/vocab/databinding/ActivitySecondScreenBinding.java
+ com.javageeks.vocab.databinding.ActivitySecondScreenBinding
+com/javageeks/vocab/MainActivity.java
+ com.javageeks.vocab.MainActivity
+ com.javageeks.vocab.MainActivity$1
+com/javageeks/vocab/SearchActivity.java
+ com.javageeks.vocab.SearchActivity
+ com.javageeks.vocab.SearchActivity$1
+ com.javageeks.vocab.SearchActivity$2
+com/javageeks/vocab/SecondScreen.java
+ com.javageeks.vocab.SecondScreen
+ com.javageeks.vocab.SecondScreen$1
+ com.javageeks.vocab.SecondScreen$2
+ com.javageeks.vocab.SecondScreen$3
+ com.javageeks.vocab.SecondScreen$4
