@@ -33,6 +33,8 @@ upon the choice of the user a table of the words included in that category pops 
 
 
 After the user decides on a word they can either click on the word from the table below or enter the word in the search prompt and the definition of the word will pop up in the definition box
+
+
 <img width="509" alt="Screenshot 2023-01-17 at 7 46 16 PM" src="https://user-images.githubusercontent.com/91975826/213053883-e337f847-675f-4df2-b41e-5d89913490a0.png">
 
 
